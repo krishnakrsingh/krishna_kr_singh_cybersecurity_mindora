@@ -58,7 +58,7 @@ TaskMaster is a student productivity suite that combines task management, note-t
 1. Clone the repository
 2. Install dependencies:
    ```bash
-   npm install
+   cd project && npm install
    ```
 3. Start development server:
    ```bash
@@ -90,11 +90,8 @@ src/
 - Implement task categories
 - Add search functionality
 - Support for file attachments
-- Mobile app development
 
-## License
 
-This project is private and proprietary.
 
 ## Contact
 
