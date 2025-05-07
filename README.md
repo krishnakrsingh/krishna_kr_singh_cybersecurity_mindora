@@ -1,4 +1,4 @@
-# TaskMaster - Student Productivity Suite
+# Mindora- Student Productivity Suite
 
 A Progressive Web Application built by students for students, helping manage academic life with AI assistance.
 
